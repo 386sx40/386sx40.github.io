@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @386sx40
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Saluti  
 
-<!---
-386sx40/386sx40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+Non so quel che sono, di sicuro ***non sono*** un programmatore, non capisco il codice, non capisco niente. Per qualche motivo, son finito su Github, forse per sfoggiare la mia abilità nell'utilizzo del Markdown, questo linguaggio che non richiede più di 10 minuti per essere assimilato.
+
+Nel caso vogliate dedicargli 10 minuti anche voi, potreste dare un'occhiata a questa [insalata di sintassi](https://github.com/386sx40/md/blob/main/markdown-sintassi.md?plain=1) e cimentarvi anche voi nella più fiacca delle imprese.
+
+***L.***
